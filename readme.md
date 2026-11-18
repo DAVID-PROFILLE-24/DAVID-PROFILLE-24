@@ -16,7 +16,7 @@ Profissional de TI com sólida vivência em suporte técnico avançado, atendime
 
 *(Desenvolvidos para estudo, automação e validação de dados)*
 
-* [**BASE DE CONHECIMENTO**]([https://github.com](https://github.com/DAVID-PROFILLE-24/base-2-new-new))
+* [**BASE DE CONHECIMENTO**]([https://github.com/DAVID-PROFILLE-24/base-2-new-new])
 
   *Objetivo: Centraliza e padroniza procedimentos técnicos, facilitando o suporte diário de analistas e o acesso rápido a novas informações.**
 
