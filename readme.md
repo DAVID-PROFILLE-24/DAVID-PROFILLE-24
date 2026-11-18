@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="IMGPRINCIPAL.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="IMGPRINCIPAL.jpg">
+    <img alt="Banner do Perfil" src="IMGPRINCIPAL.jpg" width="100%">
+  </picture>
+</p>
+
 ### 👨‍💻 Sobre Mim
 
 Profissional de TI com sólida vivência em suporte técnico avançado, atendimento multicanal, triagem e escalonamento assertivo de incidentes críticos. Especialista em investigações de falhas utilizando **Postman, Datadog e SOAP**, além de ampla experiência em consultas e manipulação de dados em bancos relacionais e não relacionais (**PostgreSQL, SQL Server e MongoDB**). Atualmente cursando Arquitetura de Dados, integrando suporte de alta performance com engenharia e modelagem de dados.
