@@ -16,17 +16,9 @@ Profissional de TI com sólida vivência em suporte técnico avançado, atendime
 
 *(Desenvolvidos para estudo, automação e validação de dados)*
 
-* [**SQL Inspector & Cleaner**](https://github.com)
+* [**BASE DE CONHECIMENTO**]([https://github.com](https://github.com/DAVID-PROFILLE-24/base-2-new-new))
 
-  * *Ferramenta em Python e PostgreSQL para varredura de registros órfãos, validação de integridade referencial e relatórios de auditoria.*
-
-* [**HelpDesk Metrics Tracker**](https://github.com)
-
-  * *Dashboard web interativo em HTML/JS para cálculo dinâmico de MTTR (Tempo Médio de Resolução) e acompanhamento de chamados em tempo real.*
-
-* [**SOAP & REST API Tester**](https://github.com)
-
-  * *Coleção de templates em Postman e scripts Python para testes de estresse em payloads XML/JSON e troubleshooting de integrações.*
+  *Objetivo: Centraliza e padroniza procedimentos técnicos, facilitando o suporte diário de analistas e o acesso rápido a novas informações.**
 
 ### 📈 Experiência Profissional Recente
 
